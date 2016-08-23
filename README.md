@@ -1,0 +1,2 @@
+# sjenkoindex
+min første
